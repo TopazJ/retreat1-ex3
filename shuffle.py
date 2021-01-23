@@ -4,6 +4,10 @@ def encode_shuffle(message, secret):
     shuffled_string = do_shuffle(message, shuffle_axis(secret))
     return ""
 
+def decode_shuffle(message, secret):
+    shuffled_string = do_shuffle(message, shuffle_axis(secret))
+    return shuffled_string
+
 def shuffle_axis(secret):
     number = 0
     for letter in secret:
