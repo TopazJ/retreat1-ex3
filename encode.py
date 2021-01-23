@@ -49,3 +49,11 @@ def decode(message, secret):
 
 # Run a simple test
 run_test()
+
+#      _,---._
+#    /'  ,`.  `\
+#  /'`,,'   ;   )         thank you for participating w
+# (_   ;  ,-,---'      ~~~~~~~ HACK YOUR LEARNING! ~~~~~~~~
+#  (;;,,;/--'
+#   \;;;/
+#     /
